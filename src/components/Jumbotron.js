@@ -22,10 +22,10 @@ class JumbotronPage extends Component {
             <h4 className="role pb-4 h4-responsive">Full-Stack Web Developer</h4>
             <MDBRow className="social-icons">
                 <MDBCol>
-                <SocialIcon className='social-icons' url="https://www.linkedin.com/in/radostina-dimitrova" target="_blank" rel="noopener noreferrer" />
+                <SocialIcon className='social-icons' url="https://www.linkedin.com/in/vasile-tronciu-a48a95175/" target="_blank" rel="noopener noreferrer" />
                 </MDBCol>
                 <MDBCol>            
-                    <SocialIcon className='social-icons' url="https://github.com/cristalnaya" target="_blank" rel="noopener noreferrer" />
+                    <SocialIcon className='social-icons' url="https://github.com/tronciu92" target="_blank" rel="noopener noreferrer" />
                 </MDBCol>
                 <MDBCol>
                 <SocialIcon className='social-icons'
